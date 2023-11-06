@@ -1,0 +1,32 @@
+* {
+  background-color: #f6f2ed;
+  font-family: "Inter", sans-serif;
+}
+.title-container {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+.calculo-container {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+p {
+  color: #0c244f;
+}
+
+h1 {
+  color: #0c244f;
+}
+
+.result{
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 20px;
+}
